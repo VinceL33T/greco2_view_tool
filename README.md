@@ -21,8 +21,10 @@ Or install it yourself as:
 
 ## Usage
 
-''' ruby 
+```ruby 
 Greco2ViewTool:: Renderer.copyright 'Vince Greco', 'All rights reserved'
+## Development
+```
 
 ## Development
 
@@ -33,4 +35,6 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/greco2_view_tool.
+
+## License 
 
